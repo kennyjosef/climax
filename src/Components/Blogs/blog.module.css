@@ -1,0 +1,42 @@
+.blog_preview{
+    margin: auto;
+    padding: 10px 16px;
+    width: 60%;
+    border-bottom: 1px solid #fafafa;
+}
+
+.blog_preview:hover{
+    box-shadow: 1px 3px 5px rgba(0,0,0,0.1);
+}
+
+.blog_preview h3{
+    font-size: 20px;
+    color: #f1356d;
+    margin-bottom: 8px;
+}
+.title{
+    padding-top: 20px;
+    margin:auto;
+   width: 80%;
+}
+button{
+    border: none;
+    cursor: pointer;
+    margin-bottom: 5px;
+    width: 100px;
+    height: 30px;
+    border-radius:10px ;
+    background-color: blueviolet;
+    color: white;
+
+}
+.btn{
+    background-color: #f1356d;
+    color: #ffff;
+    width: 100px;
+    cursor: pointer;
+    margin: auto;
+    /* margin-left: 700px; */
+    border-radius:50px ;
+    /* font-size: 20px; */
+}

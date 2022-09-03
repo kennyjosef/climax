@@ -1,0 +1,34 @@
+{
+    "blogs":[
+        {
+            "title": "My Weldson", 
+            "body": "lorem lorem", 
+            "author":"Chike",
+            "id": 1 
+        },
+        {
+            "title": "Party Time", 
+            "body": "lorem lorem", 
+            "author":"Duke",
+            "id": 2
+        },
+        {
+            "title":"The Visit", 
+            "body": "lorem lorem", 
+            "author":"Amaka",
+            "id": 3
+        },
+        {
+            "title": "Things Fall Apart", 
+            "body": "lorem lorem", 
+            "author":"Chinua Achebe",
+            "id": 4
+        },
+        {
+            "title": "Joys of Motherhood", 
+            "body": "lorem lorem", 
+            "author":"Chimamanda Adiche",
+            "id": 5
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+.header{
+    padding: 20;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* max-width: 800px; */
+    margin:  auto 40px;
+    background-color: whitesmoke;
+    margin-top: 20px;
+    }
+    .header h2{
+        color: rgb(114, 8, 25);
+        
+    }
+    .nav {
+        display: flex;
+        align-items:center;
+        justify-content: space-between;
+          
+    }
+    
+    .nav ul {
+        margin: 0;
+        padding: 0;
+        list-style: none;
+        display: flex;
+        padding: 20px;
+        gap: 1rem;
+        align-items: center;
+       
+    }
+    
+    .nav  a{
+        color: blue;
+        text-decoration: none; 
+        font-weight:400;
+        font-family: 'Inter', sans-serif;
+        font-style: normal;
+        font-size: 16px;
+        padding: 20px;
+        
+    }
+    .nav a:hover{
+        color: brown;
+    }
+    
